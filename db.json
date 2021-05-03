@@ -1,1 +1,28 @@
-
+{
+ "products" : [
+    {
+        "id": 1,
+        "name": "Iphone 12",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBC4bSjNRfbeh7yRbp0rG8kNMjPYL53Idc3-JG7TvO-PdMtxZ8ASAR3Qj6nkTrSo93UuByuAe6&usqp=CAc",
+        "description": "Iphone 12 hong",
+        "price": 500,
+        "inventory": 10
+    },
+    {
+        "id": 2,
+        "name": "Iphone XS",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBC4bSjNRfbeh7yRbp0rG8kNMjPYL53Idc3-JG7TvO-PdMtxZ8ASAR3Qj6nkTrSo93UuByuAe6&usqp=CAc",
+        "description": "Iphone XS Max",
+        "price": 600,
+        "inventory": 20
+    },
+    {
+        "id": 3,
+        "name": "Iphone 11",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHGzpNA0nFqT57zxaqMIk_y_yVo1GX5wLMeJUDOYKTsyL0ZzwO-Cz1nDW4oa_I3iNlD-PpNBc&usqp=CAc",
+        "description": "Iphone 8 Plus",
+        "price": 200,
+        "inventory": 5
+    }
+  ] 
+}
